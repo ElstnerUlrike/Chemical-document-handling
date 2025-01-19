@@ -1,2 +1,8 @@
 images/train/class2
 images/test/class2
+
+# macOS system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
