@@ -6,3 +6,7 @@ images/test/class2
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+# keep the pdfs in paper_example but exclude all subfolders
+paper_example/**
+!paper_example/*.pdf
